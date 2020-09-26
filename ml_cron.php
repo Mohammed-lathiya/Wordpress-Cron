@@ -11,7 +11,7 @@ function ml_cron_schedules($schedules){
     }
     return $schedules;
 }
-add_filter('cron_schedules','ck_cron_schedules');
+add_filter('cron_schedules','ml_cron_schedules');
 
 
 
