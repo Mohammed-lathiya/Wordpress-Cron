@@ -1,6 +1,6 @@
 <?php
 
-/* Cron Set For Delete Video */
+/* Cron Run Every 2 hour */
 
 
 function ml_cron_schedules($schedules){
